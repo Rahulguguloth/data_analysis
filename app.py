@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Census Data Analysis", layout="wide")
 
-st.title("📊 Census Data Analysis Dashboard")
+st.title("📊 Census Data Analysis by GUGULOTH RAHUL")
 
 # Upload file
 uploaded_file = st.file_uploader("📂 Upload a CSV file", type="csv")
